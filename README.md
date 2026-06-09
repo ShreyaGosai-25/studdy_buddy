@@ -192,13 +192,14 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 pip install -r requirements.txt
 
-
+```
 ## Run Application
 
 After completing the setup, start the Streamlit app using the following command:
 
 ```bash
 streamlit run app.py
+```
 
 link:
 https://studdybuddy-cpgybh5ygxjun3ansyrqdh.streamlit.app/
